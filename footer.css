@@ -1,0 +1,11 @@
+.footer {
+    background-color: black;
+    padding: 60px;
+}
+.footer div > a {
+    padding: 5px 10px;
+    color: white;
+}
+.footer g {
+    color: white;
+}
