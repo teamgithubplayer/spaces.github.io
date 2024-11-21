@@ -78,8 +78,8 @@ html {
     cursor: pointer;
 }
 .button1 {
-    background-color: rgb(81, 116, 85);
-    border: none;
+    background-color: rgb(59, 51, 47);
+    border-color: rgb(59, 51, 47);
     border-radius: 5px;
     color: white;
     padding: 16px 30px;
@@ -94,6 +94,18 @@ html {
     border-color: white;
     border-radius: 5px;
     color: white;
+    padding: 16px 30px;
+    margin: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: Roboto, sans-serif;
+    cursor: pointer;
+}
+.button3 {
+    background-color: unset;
+    border-color: rgb(59, 51, 47);
+    border-radius: 5px;
+    color: rgb(59, 51, 47);
     padding: 16px 30px;
     margin: 10px;
     font-size: 16px;
