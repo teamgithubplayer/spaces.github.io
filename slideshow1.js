@@ -1,6 +1,6 @@
 let slideIndex = 1;
-let slideId = "mySlides1"
-let dotId = "dot1"
+let slideId = "mySlides1";
+let dotId = "dot1";
 showSlides(1);
 carousel();
 

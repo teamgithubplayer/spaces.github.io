@@ -53,7 +53,7 @@ li {
     transition: 0.4s;
   }
     
-  .active, .accordion:hover {
+  .active1, .accordion:hover {
     /*background-color: #ccc;*/
   }
   
@@ -62,7 +62,7 @@ li {
     float: right;
   }
   
-  .active:after {
+  .active1:after {
     content: "\2796";
   }
   

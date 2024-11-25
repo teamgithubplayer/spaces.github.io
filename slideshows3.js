@@ -1,6 +1,6 @@
 let slideIndex = [1,1,1];
-let slideId = ["mySlides1", "mySlides2", "mySlides3"]
-let dotId = ["dot1", "dot2", "dot3"]
+let slideId = ["mySlides1", "mySlides2", "mySlides3"];
+let dotId = ["dot1", "dot2", "dot3"];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);

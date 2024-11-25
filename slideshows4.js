@@ -1,16 +1,14 @@
-let slideIndex = [1,1,1,1,1];
-let slideId = ["mySlides1", "mySlides2", "mySlides3", "mySlides4", "mySlides5"];
-let dotId = ["dot1", "dot2", "dot3", "dot4", "dot5"];
+let slideIndex = [1,1,1,1];
+let slideId = ["mySlides1", "mySlides2", "mySlides3", "mySlides4"];
+let dotId = ["dot1", "dot2", "dot3", "dot4"];
 showSlides(1, 0);
 showSlides(1, 1);
 showSlides(1, 2);
 showSlides(1, 3);
-showSlides(1, 4);
 carousel(0);
 carousel(1);
 carousel(2);
 carousel(3);
-carousel(4);
 
 // Next/previous controls
 function plusSlides(n, no) {
